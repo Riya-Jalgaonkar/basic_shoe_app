@@ -1,4 +1,4 @@
-# flutter_application_3
+# A basic shoe app.
 
 A new Flutter project.
 
