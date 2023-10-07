@@ -3,6 +3,6 @@
 
 ### Features/Widgets used:
 Using rows and columns.<br>
-navigating between pages.
-importing images 
-using icons, elevated button, decorations
+navigating between pages.<br>
+importing images. <br>
+using icons, elevated button, decorations. <br>
